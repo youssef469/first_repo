@@ -10,7 +10,7 @@ function total(){
     return (document.getElementById('totalp').innerHTML='Shopping Bag total : $ '+totale)
 }
 
-
+//this a comment to add.
 // make the plus buttons reactive 
 
 var plusBtnArray = Array.from(document.getElementsByClassName('add'));
